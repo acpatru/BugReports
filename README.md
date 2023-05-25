@@ -103,5 +103,3 @@ User should be able to read the description more clearly, the text having a larg
 
 **Actual Result:**
 User doesn’t see the text very clearly.
-
----------------------
